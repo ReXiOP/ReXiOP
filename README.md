@@ -2,7 +2,7 @@
 
 <h1>Welcome to my Digital World..</h1> 
 
-<img src = 'https://github.com/ReXiOP/ReXiOP/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sa-jid-3baa58240)](https://www.linkedin.com/in/sa-jid-3baa58240) [![Gmail Badge](https://img.shields.io/badge/-admin@sawbaninfo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:admin@sawbaninfo.com)](mailto:admin@sawbaninfo.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReXiOP" alt="ReXiOP" /> </p>
@@ -18,11 +18,11 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ReXiOP&layout=compact">
 
 ## Programming Languages
-<img src = 'https://github.com/ReXiOP/ReXiOP/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/ReXiOP/ReXiOP/blob/master/images/html.svg' width='30'/> <img src='https://github.com/ReXiOP/ReXiOP/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/ReXiOP/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/html.svg' width='30'/> <img src='https://github.com/ReXiOP/ReXiOP/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/kotlin.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/dart.svg' width='33'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/php.svg' width='40'/>
+ <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+ <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/android.svg' height='40'/><img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/flask.png' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/react.svg' width='33'/>
  
  ## Who am I?
  ```python
@@ -52,6 +52,8 @@
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Getting Started with NodeJS and the MERN Stack!!
  
+## Visite My Web Site
+sawbaninfo.xyz<a>https://sawbaninfo.xyz/</a>
 
  
  
