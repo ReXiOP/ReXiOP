@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/ReXiOP/ReXiOP/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sa-jid-3baa58240)](https://www.linkedin.com/in/sa-jid-3baa58240) [![Gmail Badge](https://img.shields.io/badge/-admin@sawbaninfo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:admin@sawbaninfo.com)](mailto:admin@sawbaninfo.com)
+[![Linkedin Badge](https://img.shields.io/badge/-sajid?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sa-jid-3baa58240)](https://www.linkedin.com/in/sa-jid-3baa58240) [![Gmail Badge](https://img.shields.io/badge/-admin@sawbaninfo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:admin@sawbaninfo.com)](mailto:admin@sawbaninfo.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReXiOP" alt="ReXiOP" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
