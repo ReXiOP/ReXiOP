@@ -10,10 +10,9 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
-* Flutter
 * Machine Learning
 * Data Science
-* Frontend and Backend Web Development
+* Frontend Web Development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ReXiOP&layout=compact">
 
@@ -48,9 +47,9 @@
  ```
  
 ## Current Works
- * Started learning MERN Stack !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
+ * Started learning Back-End  !!
+ * I'm currently polishing my skills 🌱 in **Competitive Programming**.
+
  
 ## Visit My Web Site
 <a href="https://sajid.sitetechbd.com" target="_blank"  >sajid.sitetechbd.com</a>
