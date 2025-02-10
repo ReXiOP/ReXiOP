@@ -49,7 +49,7 @@
 ## Current Works
  * Started learning Back-End  !!
  * I'm currently polishing my skills 🌱 in **Competitive Programming**.
-
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
  
 ## Visit My Web Site
 <a href="https://sajid09.netlify.app/" target="_blank"  >sajid.sitetechbd.com</a>
