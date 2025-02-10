@@ -52,7 +52,12 @@
 
  
 ## Visit My Web Site
-<a href="https://sajid.sitetechbd.com" target="_blank"  >sajid.sitetechbd.com</a>
+<a href="https://sajid09.netlify.app/" target="_blank"  >sajid.sitetechbd.com</a>
 
- 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexiop&show_icons=true&locale=en&layout=compact" alt="rexiop" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rexiop&show_icons=true&theme=tokyonight&locale=en" alt="rexiop" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexiop&" alt="rexiop" /></p>
+
  
