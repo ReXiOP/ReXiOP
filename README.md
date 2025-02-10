@@ -49,7 +49,7 @@
 ## Current Works
  * Started learning Back-End  !!
  * I'm currently polishing my skills 🌱 in **Competitive Programming**.
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
  
 ## Visit My Web Site
 <a href="https://sajid09.netlify.app/" target="_blank"  >sajid.sitetechbd.com</a>
