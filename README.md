@@ -16,7 +16,7 @@
       ]]></style>
     </defs>
 
-```
+
 <rect class='bg' width='100%' height='100%' rx='6' />
 
 <!-- Static prompt -->
